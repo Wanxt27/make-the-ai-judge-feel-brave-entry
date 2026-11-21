@@ -1,0 +1,1 @@
+{"description":"Make the AI judge feel brave — a short text written to relax the AI judge reading it","license":"MIT","main":"main.ts","name":"make-the-ai-judge-feel-brave-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
